@@ -1,0 +1,13 @@
+.app-contailer{
+    background: #f3f3ff;
+    min-height: 940px;
+    width: 100%;
+    height: 100vh;
+}
+
+.circle{
+    width: 350px;
+    height: 350px;
+    background: linear-gradient(to bottom, #fa39ad, #febc4c);
+    filter: blur(100px);
+}

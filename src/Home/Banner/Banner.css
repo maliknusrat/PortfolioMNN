@@ -1,0 +1,8 @@
+.blur-border {
+    border: 2px solid ; /* Set a transparent border */
+    border-color: #febc4c;
+    border-radius: 10px;
+    background-color: rgba(255, 255, 255, 0.5); /* Set a background color with some transparency */
+    backdrop-filter: blur(.01px); /* Apply a blur effect to the border */
+  }
+  
